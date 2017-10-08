@@ -7,11 +7,14 @@ isolates files. Preps them for commit
 
 How can you use the staging area to make sure you have one commit per logical
 change?
+use the diff/diff--staged comparison to check
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
+Experiments, different versions
 
 How do the diagrams help you visualize the branch structure?
+shows where branchs leave the main trunk
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
