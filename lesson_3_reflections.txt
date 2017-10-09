@@ -17,9 +17,12 @@ Ability to see changes before pull/push
 
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
+Phone? Oh GitHub is so amazing!
 
 
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
+Experimenting. Part of larger prject. Changes need verifications
+
 
  
