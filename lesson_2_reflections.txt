@@ -18,6 +18,9 @@ shows where branchs leave the main trunk
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
+We keep the results of both branches (apparently). Why? For ease.
 
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
+Pros quicker and less searching
+Cons overlooking bugs
